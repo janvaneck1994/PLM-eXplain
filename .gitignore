@@ -1,0 +1,6 @@
+data/*
+downstream_task_data/*
+informed_feature_scores/*
+output_cnn/*
+output_gradient_boost/*
+trained_models/*
