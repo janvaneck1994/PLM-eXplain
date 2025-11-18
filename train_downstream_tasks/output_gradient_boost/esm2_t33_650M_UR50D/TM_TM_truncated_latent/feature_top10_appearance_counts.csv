@@ -1,0 +1,16 @@
+Feature,PosCount,NegCount,TotalCount,DominantCount
+AROM,10,0,10,10
+GRAVY,10,0,10,10
+I,10,0,10,10
+SS3_H,10,0,10,10
+SS8_I,10,0,10,10
+C,0,9,9,9
+F,9,0,9,9
+SS8_G,0,9,9,9
+K,0,8,8,8
+SS8_-,0,4,4,4
+L,3,0,3,3
+ASA,2,1,3,2
+SS8_H,2,0,2,2
+V,2,0,2,2
+W,0,1,1,1
